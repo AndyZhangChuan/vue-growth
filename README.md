@@ -93,6 +93,8 @@ vue log components
      
 ```
 
+### DATA Structure
+
 
 ## Technology Stack
 - Vue 2.0
